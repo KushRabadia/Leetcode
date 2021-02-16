@@ -3,4 +3,4 @@ The following problems are sourced from <b>Leetcode</b>. The titles of the probl
 
 | <b>#</b> | <b>Title</b> | <b>Solution</b> | <b>Difficulty</b> |
 | ------------- | ------------- | --- | --- |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum) | Easy |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/){:target="_blank" rel="noopener"} | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum){:target="_blank" rel="noopener"} | Easy |
