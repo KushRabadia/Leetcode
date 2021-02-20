@@ -9,9 +9,9 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Palindrome%20Number)  | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Roman%20to%20Integer)  | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Longest%20Common%20Prefix)  | Easy |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/3Sum)  | Medium |
+| 15 | [Three Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Three%20Sum)  | Medium |
 | 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Valid%20Parenthesis)  | Easy |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Merge%20Tw0%20Sorted%20Lists)  | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Merge%20Two%20Sorted%20Lists)  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Remove%20Element)  | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Implement%20strStr())  | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Search%20in%20Rotated%20Sorted%20Array) | Medium |
