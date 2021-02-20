@@ -4,7 +4,7 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | <b>#</b> | <b>Title</b> | <b>Solution</b> | <b>Difficulty</b> |
 | ------------- | ------------- | --- | --- |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum) | Easy |
-| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum) | Easy |
+| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Reverse%20Integer) | Easy |
 | 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum) | Medium |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/KushRabadia/Algorithms/blob/main/Two%20Sum) | Easy |
