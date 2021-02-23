@@ -86,29 +86,29 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 771 | [Jewels and Stones](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
 | 804| [Unique Morse Code Words](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/) | Easy |
 | 832 | [Flipping an Image](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 844 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 876 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 905 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 908 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 914 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 917 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 922| [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/) | Easy |
-| 925| [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/) | Easy |
-| 941 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 942 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 944 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 949 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
-| 1008 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1046 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1143 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1394 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1408 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1409 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1410 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1417 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1418 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1422 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1436 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1437 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1441 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
-| 1442 | [](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 844 | [Backspace String Compare](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 876 | [Middle of the Linked LIst](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 905 | [Sort Array BY Parity](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 908 | [Smallest Range I](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 922| [Sort Array by Parity II](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/) | Easy |
+| 925| [Long Pressed Name](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/) | Easy |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 942 | [DI String Match](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 949 | [Largest Time for Given Digits](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms// | Easy |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1417 | [Reformat The String](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1436 | [Destination City](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1437 | [Check if All 1's Are at Least Length K Places Away](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems//) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorith/er) | Easy |
