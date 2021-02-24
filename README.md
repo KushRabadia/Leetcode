@@ -34,7 +34,7 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Single%20Number) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/LRU%20Cache) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Min%20Stack) | Easy |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Two%20Sum%20II) | Easy |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Two%20Sum%20II%20-%20Input%20array%20is%20sorted) | Easy |
 | 168 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Excel%20Sheet%20Column%20Number) | Easy |
 | 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Factorial%20Trailing%20Zeroes) | Easy|
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Rotate%20Array) | Medium |
@@ -68,14 +68,14 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Number%20Complement) | Easy |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Total%20Hamming%20Distance) | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Max%20Consecutive%20Ones) | Easy |
-| 496 | [Next Greater Element 1](https://leetcode.com/problems/next-greater-element-1/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Next%20Greater%20Element%201) | Easy |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Next%20Greater%20Element%20I) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Keyboard%20Row) | Easy |
 | 509 | [Fibonacci number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Fibonacci%20number) | Easy |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Contiguous%20Array) | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Reverse%20String%20II) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Diameter%20of%20Binary%20Tree) | Easy |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Student%20Attendance%20Record%20I) | Easy |
-| 557 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Reverse%20Words%20in%20a%20String%20II) | Easy |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Reverse%20Words%20in%20a%20String%20III) | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subaaray-sum-equals-k/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Subarray%20Sum%20Equals%20K) | Medium |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Array%20Partition%20I) | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Reshape%20the%20Matrix) | Easy |
@@ -92,7 +92,7 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Smallest%20Range%20I) | Easy |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards) | Easy |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Reverse%20Only%20Letters) | Easy |
-| 922| [Sort Array by Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Sort%20Array%20by%20Parity%20II) | Easy |
+| 922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Sort%20Array%20By%20Parity%20II) | Easy |
 | 925| [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Long%20Pressed%20Name) | Easy |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Valid%20Mountain520Array) | Easy |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/DI%20String%20Match) | Easy |
@@ -109,6 +109,6 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant) | Medium |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Maximum%20Score%20After%20Splitting%20a%20String) | Easy |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Destination%20City) | Easy |
-| 1437 | [Check if All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Check%20if%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away) | Easy |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away) | Easy |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Build%20an%20Array%20With%20Stack%20Operations) | Easy |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR) | Medium |
