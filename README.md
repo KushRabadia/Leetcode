@@ -12,6 +12,7 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Three%20Sum)  | Medium |
 | 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Valid%20Parenthesis)  | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Merge%20Two%20Sorted%20Lists)  | Easy |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python]([https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Merge%20Two%20Sorted%20Lists](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array.py))  | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Remove%20Element)  | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Implement%20strStr())  | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Search%20in%20Rotated%20Sorted%20Array) | Medium |
@@ -26,8 +27,10 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Plus%20One) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Sqrt(x)) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Climbing%20Stairs) | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Remove%20Duplicates%20from%20Sorted%20List.py) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Merge%20Sorted%20Array) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Binary%20Tree%20Inorder%20Traversal) | Medium |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Maximum%20Depth%20of%20Binary%20Tree.py) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Pascal's%20Triangle) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | Easy |
@@ -83,6 +86,7 @@ The following problems are sourced from [<b>Leetcode</b>](https://leetcode.com/)
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-to-return-origin/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Robot%20Return%20to%20Origin) | Easy |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Valid%20Parenthesis%20String) | Medium |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Binary%20Number%20with%20Alternating%20Bits) | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Binary%20Search.py) | Easy |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Jewels%20and%20Stones) | Easy |
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Unique%20Morse%20Code%20Words) | Easy |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/KushRabadia/Leetcode/blob/main/Algorithms/Flipping%20an%20Image) | Easy |
